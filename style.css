@@ -1,6 +1,7 @@
 .hello-world{
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 24;
-  margin: 10px 15px;
-  background-color:bisque;
+  margin: 15px 30px;
+  background-color:aquamarine;
+  padding: 8px 16px;
 }
